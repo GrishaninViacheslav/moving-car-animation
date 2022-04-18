@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">moving-car-animation</string>
+<string name="app_name">moving-car-animation</string>
+<string name="click_to_start">Нажмите, чтобы запустить анимацию</string>
 </resources>
